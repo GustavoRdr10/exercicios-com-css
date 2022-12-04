@@ -1,0 +1,65 @@
+body {
+    background-image: url('./img/Maratona.jpg');
+    background-repeat: no-repeat;
+    background-position: right 0;
+    background-size: cover;
+}
+
+
+.titulo {
+    text-align: center;
+    color: #eead2d;;
+}
+
+.classificacao {
+    margin-left: 60%;
+    top: 100%;
+    border:1px solid; 
+    padding: 11px 21px; 
+    vertical-align: middle; 
+    background: #eead2d; 
+    color:white;
+    border-radius:6px; 
+    font-size: 20px; 
+    font-family:helvetica, serif;
+    text-decoration:none;
+}
+
+.tempo {
+    display: inline-block;
+    background-color: #eead2d;; 
+    opacity : 0.5;
+    height: 60px;
+    width: 100%;
+    border:1px solid; 
+    padding: 11px 21px;
+    box-shadow: 5px 5px 0 black;
+}
+.primeiro {
+    display: inline-block;
+    background-color: #eead2d;; 
+    opacity : 0.5;
+    width: 170px;
+    width: 100%;
+    height: 60px;
+    border:1px solid; 
+    padding: 11px 21px;
+    line-height: 60px;
+    box-shadow: 5px 5px 0 black;
+}
+.ultimo {
+    display: inline-block;
+    background-color: #eead2d;; 
+    opacity : 0.5;
+    width: 100%;
+    height: 60px;
+    border:1px solid; 
+    padding: 11px 21px;
+    box-shadow: 5px 5px 0 black;
+
+}
+
+p {
+    text-align: center;
+    color: #eead2d;
+}

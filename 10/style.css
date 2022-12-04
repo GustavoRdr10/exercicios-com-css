@@ -1,0 +1,9 @@
+body {
+    background-color: darkgrey;
+}
+ul {
+    float: left;
+    width: 20px;
+    height: 50px;
+    display: grid;
+}

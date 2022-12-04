@@ -1,0 +1,10 @@
+body {
+    background-image: url('./img/febre.jpg');
+    background-repeat: no-repeat;
+    background-position: right 0 ;
+    background-size: cover;
+}
+button {
+    background-color: green;
+    color: white;
+}

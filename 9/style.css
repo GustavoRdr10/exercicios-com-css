@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+    background-image: url('./img/colegio.jpg');
+    background-repeat: no-repeat;
+    background-position: right 0;
+    background-size: cover;    
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    float: left;
+    color: black;
+    width: 47px;
+    height: 100px;
+    display: grid;
+}
+
+button {
+    background-color: yellow;
+}

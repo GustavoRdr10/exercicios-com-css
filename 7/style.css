@@ -1,0 +1,11 @@
+body {
+    background-image: url('./img/js.png');
+    background-repeat: no-repeat;
+    background-position: right 0 ;
+    background-size: cover;
+}
+button {
+    background-color: orange;
+    color: white;
+
+}
